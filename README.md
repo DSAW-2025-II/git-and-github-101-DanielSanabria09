@@ -9,5 +9,5 @@
 Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
 
 - **Nombre completo:** Daniel Felipe Sanabria Solano    
-- **ID de la Universidad:** 340113
+- **ID de la Universidad:** 0000340113
 - **Usuario de Github:** DanielSanabria09
